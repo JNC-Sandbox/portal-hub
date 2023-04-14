@@ -1,0 +1,15 @@
+body {
+    font-family:sans-serif;
+}
+
+table td, table th {
+    padding:5px;  
+}
+
+.age {
+    text-align: right;
+}
+
+.done {
+    text-align: center;
+}
