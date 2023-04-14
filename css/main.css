@@ -85,10 +85,10 @@ img {
 .dropdown {
   background-color: rgb(0, 115, 185);
   padding: 1em 0;
-  position: absolute; /*WITH RESPECT TO PARENT*/
+  position: fixed; /*WITH RESPECT TO PARENT*/
   display: none;
   border-radius: 8px;
-  top: 35px;
+  top: 55px;
 }
 
 .dropdown li + li {
