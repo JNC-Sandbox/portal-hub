@@ -24,7 +24,7 @@ li {
   align-items: center;
   justify-content: space-between;
   padding: 20px;
-  background-color: teal;
+  background-color: rgb(0, 115, 185);
   color: #fff;
 }
 
@@ -45,7 +45,7 @@ li {
 }
 
 .menu li:hover {
-  background-color: #4c9e9e;
+  background-color: rgb(250, 171, 25);;
   border-radius: 5px;
   transition: 0.3s ease;
 }
@@ -83,7 +83,7 @@ img {
 }
 
 .dropdown {
-  background-color: rgb(1, 139, 139);
+  background-color: rgb(0, 115, 185);
   padding: 1em 0;
   position: absolute; /*WITH RESPECT TO PARENT*/
   display: none;
@@ -102,7 +102,7 @@ img {
 }
 
 .dropdown li:hover {
-  background-color: #4c9e9e;
+  background-color: rgb(250, 171, 25);;
 }
 
 .services:hover .dropdown {
